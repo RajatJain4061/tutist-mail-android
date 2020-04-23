@@ -1,5 +1,5 @@
 
-# ProtonMail for Android
+# TutistMail for Android
 
 Copyright (c) 2020 Proton Technologies AG
 
