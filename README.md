@@ -1,14 +1,6 @@
 
 # TutistMail for Android
 
-Copyright (c) 2020 Proton Technologies AG
-
-## License
-
-The code and data files in this distribution are licensed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See <https://www.gnu.org/licenses/> for a copy of this license.
-
-See [LICENSE](LICENSE) file
-
 ## Setup
 
 The most straightforward way to build and run this application is to:
@@ -29,6 +21,3 @@ Then, go to the app’s root directory in the command line tool and run:
 
 - `./gradlew assembleBetaDebug`
 - `adb install ./app/build/outputs/apk/beta/debug/ProtonMail-Android-1.XX.X-beta-debug.apk`
-
-Copyright (c) 2020 Proton Technologies AG
-
